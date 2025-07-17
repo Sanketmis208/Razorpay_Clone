@@ -21,4 +21,14 @@ A responsive and visually accurate **Razorpay landing page clone** built using *
 - **Tailwind CSS**
 
 ## 📁 Folder Structure
+razorpay-clone/
+├── index.html
+├── main.css
+|── images/
+|── package-lock.json
+|── package.json
+|── postcss.config.js
+├── tailwind.config.js
+└── README.md
+
 
